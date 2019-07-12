@@ -1,0 +1,21 @@
+{
+  "name": "gurutoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "openzeppelin-solidity": "^2.3.0",
+    "chai": "^4.2.0",
+    "ethereumjs-util": "^6.0.0",
+    "openzeppelin-docsite": "github:OpenZeppelin/openzeppelin-docsite#ee1df82d52ad3df4337b20392627975091f8d5b3",
+    "openzeppelin-test-helpers": "^0.4"
+  }
+}
